@@ -647,7 +647,7 @@ the name of the classes.
 
 /* Volunteer Picture Filter
 Reference:
-    I learned the gallery filtering using Bootstrap from https://bootsnipp.com/snippets/Q0RK6 by Winson222.
+    I learned the picture filtering using Bootstrap from https://bootsnipp.com/snippets/Q0RK6 by Winson222.
     I utilized his concept but customized it so that I could make it fit my portfolio website.  
     For example,
         1. Deleted some attributes like role="tab" and role="tabpanel" which gave me an error message on Wave, axe, and HTML validation.
